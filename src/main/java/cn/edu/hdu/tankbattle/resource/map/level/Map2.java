@@ -9,12 +9,7 @@ import cn.edu.hdu.tankbattle.resource.map.Map;
 
 import java.util.Vector;
 
-/**
- * 游戏地图默认关卡2...
- *
- * @author chenpi
- * @since 2011-02-10 19:29
- */
+
 public class Map2 extends Map {
     public Map2() {
         Vector<Iron> irons = this.getIrons();

@@ -8,12 +8,7 @@ import cn.edu.hdu.tankbattle.enums.DirectionEnum;
 import cn.edu.hdu.tankbattle.enums.StuffTypeEnum;
 
 
-/**
- * 物体...
- *
- * @author chenpi
- * @since 2011-02-10 19:29
- */
+
 public class Stuff {
     /**
      * x坐标

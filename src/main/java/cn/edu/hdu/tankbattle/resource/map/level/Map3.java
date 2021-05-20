@@ -9,12 +9,7 @@ import cn.edu.hdu.tankbattle.resource.map.Map;
 
 import java.util.Vector;
 
-/**
- * 游戏地图默认关卡3...
- *
- * @author chenpi
- * @since 2011-02-10 19:29
- */
+
 public class Map3 extends Map {
     public Map3() {
         Vector<Brick> bricks = this.getBricks();

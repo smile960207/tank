@@ -15,12 +15,7 @@ import cn.edu.hdu.tankbattle.view.panel.GamePanel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-/**
- * 游戏事件服务...
- *
- * @author chenpi
- * @since 2011-02-10 19:29
- */
+
 @Service
 public class GameEventService {
 

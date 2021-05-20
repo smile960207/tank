@@ -9,12 +9,7 @@ import org.apache.commons.digester3.annotations.rules.ObjectCreate;
 import org.apache.commons.digester3.annotations.rules.SetNext;
 
 
-/**
- * XmlMap...
- *
- * @author chenpi
- * @since 2018/3/31 9:05
- */
+
 @ObjectCreate(pattern = "map")
 public class XmlMap {
     private XmlBricks bricks;

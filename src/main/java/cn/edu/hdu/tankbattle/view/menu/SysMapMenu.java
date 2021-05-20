@@ -7,12 +7,7 @@ package cn.edu.hdu.tankbattle.view.menu;
 import javax.swing.*;
 import java.awt.event.ActionListener;
 
-/**
- * LevelMenu...
- *
- * @author chenpi
- * @since 2018/3/19 19:36
- */
+
 public class SysMapMenu extends JMenu {
 
     public SysMapMenu(ActionListener listener) {

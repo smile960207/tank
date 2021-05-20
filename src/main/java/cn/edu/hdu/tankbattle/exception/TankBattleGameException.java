@@ -4,12 +4,7 @@
 
 package cn.edu.hdu.tankbattle.exception;
 
-/**
- * 自定义异常...
- *
- * @author chenpi
- * @since 2018/3/24 10:43
- */
+
 public class TankBattleGameException extends RuntimeException {
     public TankBattleGameException() {
         super();

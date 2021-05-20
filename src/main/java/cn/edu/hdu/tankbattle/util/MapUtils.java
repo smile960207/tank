@@ -15,12 +15,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 
-/**
- * Class Description...
- *
- * @author chenpi
- * @since 2018/4/1 20:09
- */
+
 public class MapUtils {
     /**
      * 获取地图中所有可以存放物体的坐标集合

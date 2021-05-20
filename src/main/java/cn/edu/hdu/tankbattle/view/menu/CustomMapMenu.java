@@ -9,12 +9,7 @@ import cn.edu.hdu.tankbattle.util.MapUtils;
 import javax.swing.*;
 import java.awt.event.ActionListener;
 
-/**
- * Class Description...
- *
- * @author chenpi
- * @since 2018/4/2 21:26
- */
+
 public class CustomMapMenu extends JMenu {
     public static final String CUSTOM_MAP_ACTION_COMMAND = "customMap";
 

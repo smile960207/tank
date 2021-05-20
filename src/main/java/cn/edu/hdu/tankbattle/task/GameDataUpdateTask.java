@@ -14,12 +14,7 @@ import cn.edu.hdu.tankbattle.view.panel.GamePanel;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- * 游戏数据更新线程...
- *
- * @author chenpi
- * @since 2011-02-10 19:29
- */
+
 public class GameDataUpdateTask implements Runnable {
     private Logger logger = LoggerFactory.getLogger(this.getClass());
 

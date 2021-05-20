@@ -22,12 +22,7 @@ import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.util.Vector;
 
-/**
- * 鼠标点击事件...
- *
- * @author chenpi
- * @since 2018/4/1 10:41
- */
+
 @Component
 public class MouseEventListener implements MouseListener {
     private Logger logger = LoggerFactory.getLogger(MouseEventListener.class);

@@ -7,12 +7,7 @@ package cn.edu.hdu.tankbattle.resource.image;
 import java.awt.Image;
 import java.awt.Toolkit;
 
-/**
- * 图片资源...
- *
- * @author chenpi
- * @since 2011-02-10 19:29
- */
+
 public class Images {
     /**
      * 我方坦克图片

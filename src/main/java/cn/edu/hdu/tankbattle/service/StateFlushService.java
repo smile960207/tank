@@ -15,12 +15,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.Vector;
 
-/**
- * 状态刷新服务
- *
- * @author chenpi
- * @since 2020/12/30
- **/
+
 @Service
 public class StateFlushService {
     @Autowired

@@ -16,12 +16,7 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-/**
- * 菜单事件监听...
- *
- * @author chenpi
- * @since 2018/3/19 20:18
- */
+
 @Component
 public class MenuActionEventListener implements ActionListener {
     private Logger logger = LoggerFactory.getLogger(MenuActionEventListener.class);

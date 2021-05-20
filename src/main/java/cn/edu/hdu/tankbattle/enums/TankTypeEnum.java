@@ -4,12 +4,7 @@
 
 package cn.edu.hdu.tankbattle.enums;
 
-/**
- * 坦克类型枚举...
- *
- * @author chenpi
- * @since 2018/3/25 14:12
- */
+
 public enum TankTypeEnum {
     INVALID(-1, "无效"),
     MY(0, "我的坦克"),

@@ -6,12 +6,7 @@ package cn.edu.hdu.tankbattle.entity;
 
 import cn.edu.hdu.tankbattle.enums.StuffTypeEnum;
 
-/**
- * 铁块...
- *
- * @author chenpi
- * @since 2011-02-10 19:29
- */
+
 public class Iron extends Stuff {
     /**
      * 构造方法

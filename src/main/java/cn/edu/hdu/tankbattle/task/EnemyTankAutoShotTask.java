@@ -9,12 +9,7 @@ import cn.edu.hdu.tankbattle.service.TankControlService;
 
 import java.util.TimerTask;
 
-/**
- * 敌方坦克自动射击任务...
- *
- * @author chenpi
- * @since 2011-02-10 19:29
- */
+
 public class EnemyTankAutoShotTask extends TimerTask {
     private EnemyTank enemyTank;
     private TankControlService tankControlService;

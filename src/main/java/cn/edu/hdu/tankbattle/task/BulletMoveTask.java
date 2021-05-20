@@ -9,12 +9,7 @@ import cn.edu.hdu.tankbattle.constant.GameConstants;
 import cn.edu.hdu.tankbattle.entity.Bullet;
 import cn.edu.hdu.tankbattle.util.GameTimeUnit;
 
-/**
- * 子弹移动任务...
- *
- * @author chenpi
- * @since 2018/3/24 20:08
- */
+
 public class BulletMoveTask implements Runnable {
     private Bullet bullet;
 

@@ -11,12 +11,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 
-/**
- * Class Description...
- *
- * @author chenpi
- * @since 2018/3/25 22:01
- */
+
 public class TbObjectUtilsTest {
     @Test
     public void isEmpty() {

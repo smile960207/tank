@@ -9,12 +9,7 @@ import org.slf4j.LoggerFactory;
 
 import java.util.concurrent.TimeUnit;
 
-/**
- * Class Description...
- *
- * @author chenpi
- * @since 2018/3/20 18:35
- */
+
 public class GameTimeUnit {
     private static final Logger LOGGER = LoggerFactory.getLogger(GameTimeUnit.class);
 

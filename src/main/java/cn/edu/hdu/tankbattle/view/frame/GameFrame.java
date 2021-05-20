@@ -9,12 +9,7 @@ import cn.edu.hdu.tankbattle.resource.image.Images;
 import javax.swing.*;
 import java.awt.*;
 
-/**
- * GameFrame...
- *
- * @author chenpi
- * @since 2011-02-10 19:29
- */
+
 public class GameFrame extends JFrame {
 
     /**

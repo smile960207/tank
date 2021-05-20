@@ -21,12 +21,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.Vector;
 
-/**
- * 画图服务...
- *
- * @author chenpi
- * @since 2011-02-10 19:29
- */
+
 @Service
 public class PaintService {
     @Autowired

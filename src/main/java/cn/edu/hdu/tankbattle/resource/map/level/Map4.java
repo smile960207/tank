@@ -9,12 +9,7 @@ import cn.edu.hdu.tankbattle.resource.map.Map;
 
 import java.util.Vector;
 
-/**
- * 游戏地图默认关卡4...
- *
- * @author chenpi
- * @since 2011-02-10 19:29
- */
+
 public class Map4 extends Map {
     public Map4() {
         Vector<Water> waters = this.getWaters();

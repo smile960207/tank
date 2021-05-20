@@ -7,12 +7,7 @@ package cn.edu.hdu.tankbattle.enums;
 import cn.edu.hdu.tankbattle.resource.map.*;
 import cn.edu.hdu.tankbattle.resource.map.level.*;
 
-/**
- * 关卡枚举...
- *
- * @author chenpi
- * @since 2018/3/21 21:12
- */
+
 public enum LevelEnum {
     INVALID_LEVEL(-1, "无效", null),
     FIRST_LEVEL(1, "第一关", new Map1()),

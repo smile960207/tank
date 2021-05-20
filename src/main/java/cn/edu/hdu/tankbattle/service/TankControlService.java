@@ -18,12 +18,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.Vector;
 
-/**
- * 坦克控制服务...
- *
- * @author chenpi
- * @since 2018/3/24 19:52
- */
+
 @Service
 public class TankControlService {
 

@@ -10,12 +10,7 @@ import cn.edu.hdu.tankbattle.enums.TankTypeEnum;
 import java.awt.*;
 import java.util.Timer;
 
-/**
- * 敌方坦克...
- *
- * @author chenpi
- * @since 2011-02-10 19:29
- */
+
 public class EnemyTank extends Tank {
     /**
      * 敌人坦克刚出现时从左到右排列的5个固定地方

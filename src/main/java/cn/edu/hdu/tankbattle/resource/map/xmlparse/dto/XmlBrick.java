@@ -7,12 +7,7 @@ package cn.edu.hdu.tankbattle.resource.map.xmlparse.dto;
 import org.apache.commons.digester3.annotations.rules.BeanPropertySetter;
 import org.apache.commons.digester3.annotations.rules.ObjectCreate;
 
-/**
- * XmlBrick...
- *
- * @author chenpi
- * @since 2018/3/31 9:10
- */
+
 @ObjectCreate(pattern = "map/bricks/brick")
 public class XmlBrick {
     @BeanPropertySetter(pattern = "map/bricks/brick/x")

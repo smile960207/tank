@@ -13,12 +13,7 @@ import cn.edu.hdu.tankbattle.resource.map.Map;
 
 import java.util.Vector;
 
-/**
- * 实时游戏数据...
- *
- * @author chenpi
- * @since 2018/3/20 23:01
- */
+
 public class RealTimeGameData {
 
     /**

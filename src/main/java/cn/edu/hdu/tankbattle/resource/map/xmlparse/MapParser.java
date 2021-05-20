@@ -26,12 +26,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.InputStream;
 
-/**
- * 地图xml解析...
- *
- * @author chenpi
- * @since 2018/3/31
- */
+
 public class MapParser {
     private static Logger logger = LoggerFactory.getLogger(MapParser.class);
 

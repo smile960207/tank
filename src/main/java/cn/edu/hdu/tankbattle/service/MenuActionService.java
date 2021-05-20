@@ -15,12 +15,7 @@ import org.springframework.stereotype.Service;
 
 import javax.swing.*;
 
-/**
- * 用户菜单操作执行服务...
- *
- * @author chenpi
- * @since 2018/3/24 10:27
- */
+
 @Service
 public class MenuActionService {
     @Autowired

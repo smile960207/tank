@@ -8,12 +8,7 @@ import org.springframework.stereotype.Service;
 import java.util.Random;
 import java.util.Vector;
 
-/**
- * 计算服务
- *
- * @author chenpi
- * @since 2020/12/30
- **/
+
 @Service
 public class ComputingService {
     /**

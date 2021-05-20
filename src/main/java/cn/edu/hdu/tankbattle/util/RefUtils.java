@@ -8,12 +8,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 
-/**
- * 反射工具类.
- *
- * @author chenpi
- * @since 2018/03/24
- */
+
 public class RefUtils {
 
     /**

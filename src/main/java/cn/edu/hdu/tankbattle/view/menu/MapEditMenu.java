@@ -7,12 +7,7 @@ package cn.edu.hdu.tankbattle.view.menu;
 import javax.swing.*;
 import java.awt.event.ActionListener;
 
-/**
- * Class Description...
- *
- * @author chenpi
- * @since 2018/4/1 9:57
- */
+
 public class MapEditMenu extends JMenu {
     public MapEditMenu(ActionListener listener) {
         super("地图编辑");

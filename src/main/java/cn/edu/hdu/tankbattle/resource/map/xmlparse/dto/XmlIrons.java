@@ -9,12 +9,7 @@ import org.apache.commons.digester3.annotations.rules.SetNext;
 
 import java.util.Vector;
 
-/**
- * XmlIrons...
- *
- * @author chenpi
- * @since 2018/3/31 9:17
- */
+
 @ObjectCreate(pattern = "map/irons")
 public class XmlIrons {
     private Vector<XmlIron> irons = new Vector<>();

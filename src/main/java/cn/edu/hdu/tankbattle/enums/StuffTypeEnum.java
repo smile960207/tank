@@ -5,12 +5,7 @@
 package cn.edu.hdu.tankbattle.enums;
 
 
-/**
- * 物体类型...
- *
- * @author chenpi
- * @since 2018/3/24 21:03
- */
+
 public enum StuffTypeEnum {
     INVALID(-1, "无效", "unknown"),
     BRICK(0, "砖块", "brick"),

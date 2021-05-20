@@ -7,12 +7,7 @@ package cn.edu.hdu.tankbattle.entity;
 
 import cn.edu.hdu.tankbattle.enums.DirectionEnum;
 
-/**
- * 子弹...
- *
- * @author chenpi
- * @since 2011-02-10 19:29
- */
+
 public class Bullet {
     /**
      * 子弹的速度

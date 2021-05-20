@@ -17,12 +17,7 @@ import java.lang.reflect.Method;
 import java.util.concurrent.Executor;
 import java.util.concurrent.ThreadPoolExecutor;
 
-/**
- * 线程池配置...
- *
- * @author chenpi
- * @since 2018/3/20 19:27
- */
+
 @Configuration
 @EnableAsync
 public class TaskExecutorConfig implements AsyncConfigurer {

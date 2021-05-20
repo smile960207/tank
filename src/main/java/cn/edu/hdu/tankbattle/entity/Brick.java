@@ -6,12 +6,7 @@ package cn.edu.hdu.tankbattle.entity;
 
 import cn.edu.hdu.tankbattle.enums.StuffTypeEnum;
 
-/**
- * 砖块...
- *
- * @author chenpi
- * @since 2011-02-10 19:29
- */
+
 public class Brick extends Stuff {
     /**
      * 砖块类的构造函数

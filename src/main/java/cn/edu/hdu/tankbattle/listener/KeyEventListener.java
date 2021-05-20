@@ -18,12 +18,7 @@ import org.springframework.stereotype.Component;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
-/**
- * 按键事件监听...
- *
- * @author chenpi
- * @since 2018/3/19 20:13
- */
+
 @Component
 public class KeyEventListener implements KeyListener {
     @Autowired

@@ -12,12 +12,7 @@ import org.slf4j.LoggerFactory;
 import javax.swing.*;
 import java.awt.*;
 
-/**
- * GamePanel...
- *
- * @author chenpi
- * @since 2011-02-10 19:29
- */
+
 public class GamePanel extends JPanel {
     private Logger logger = LoggerFactory.getLogger(GamePanel.class);
 

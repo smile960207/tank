@@ -10,12 +10,7 @@ import cn.edu.hdu.tankbattle.entity.EnemyTank;
 import cn.edu.hdu.tankbattle.enums.DirectionEnum;
 import cn.edu.hdu.tankbattle.util.GameTimeUnit;
 
-/**
- * 敌方坦克移动任务...
- *
- * @author chenpi
- * @since 2018/3/24 19:29
- */
+
 public class EnemyTankMoveTask implements Runnable {
     private EnemyTank tank;
     private GameContext gameContext;

@@ -11,12 +11,7 @@ import cn.edu.hdu.tankbattle.resource.map.xmlparse.dto.XmlMap;
 
 import java.util.Vector;
 
-/**
- * 地图...
- *
- * @author chenpi
- * @since 2011-02-10 19:29
- */
+
 public class Map {
 
     private Vector<Brick> bricks;

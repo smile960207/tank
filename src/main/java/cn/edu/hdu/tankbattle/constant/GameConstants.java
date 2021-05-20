@@ -4,12 +4,7 @@
 
 package cn.edu.hdu.tankbattle.constant;
 
-/**
- * 游戏常量...
- *
- * @author chenpi
- * @since 2018/3/20 22:54
- */
+
 public class GameConstants {
     /**
      * 坦克宽度

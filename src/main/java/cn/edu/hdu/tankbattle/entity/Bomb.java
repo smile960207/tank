@@ -4,12 +4,7 @@
 
 package cn.edu.hdu.tankbattle.entity;
 
-/**
- * 炸弹...
- *
- * @author chenpi
- * @since 2011-02-10 19:29
- */
+
 public class Bomb {
     /**
      * 炸弹的宽度

@@ -9,12 +9,7 @@ import cn.edu.hdu.tankbattle.view.menu.*;
 import javax.swing.*;
 import java.awt.event.ActionListener;
 
-/**
- * TankBattleMenuBar...
- *
- * @author chenpi
- * @since 2018/3/19 19:36
- */
+
 public class TankBattleMenuBar extends JMenuBar {
 
     private static final long serialVersionUID = -4010376438320829163L;

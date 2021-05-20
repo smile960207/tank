@@ -30,12 +30,7 @@ import javax.swing.*;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
-/**
- * 游戏上下文环境...
- *
- * @author chenpi
- * @since 2018/3/19 20:32
- */
+
 @Component
 public class GameContext {
     private Logger logger = LoggerFactory.getLogger(GameContext.class);

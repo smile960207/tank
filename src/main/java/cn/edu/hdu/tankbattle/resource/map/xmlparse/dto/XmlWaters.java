@@ -9,12 +9,7 @@ import org.apache.commons.digester3.annotations.rules.SetNext;
 
 import java.util.Vector;
 
-/**
- * XmlWaters...
- *
- * @author chenpi
- * @since 2018/3/31 9:17
- */
+
 @ObjectCreate(pattern = "map/waters")
 public class XmlWaters {
 

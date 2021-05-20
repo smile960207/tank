@@ -4,12 +4,7 @@
 
 package cn.edu.hdu.tankbattle.enums;
 
-/**
- * 方向枚举...
- *
- * @author chenpi
- * @since 2018/3/24 21:18
- */
+
 public enum DirectionEnum {
     INVALID(-1, "无效"),
     NORTH(0, "北"),

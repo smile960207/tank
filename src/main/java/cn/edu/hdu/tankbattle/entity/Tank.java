@@ -12,12 +12,7 @@ import cn.edu.hdu.tankbattle.enums.TankTypeEnum;
 import java.awt.*;
 import java.util.Vector;
 
-/**
- * 坦克...
- *
- * @author chenpi
- * @since 2011-02-10 19:29
- */
+
 public class Tank extends Stuff {
     /**
      * 坦克的颜色

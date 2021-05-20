@@ -10,12 +10,7 @@ import org.springframework.boot.WebApplicationType;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 
-/**
- * 坦克大战游戏Application...
- *
- * @author chenpi
- * @since 2018/3/19 19:36
- */
+
 @SpringBootApplication
 public class TankBattleApplication {
     private static final Logger logger = LoggerFactory.getLogger(TankBattleApplication.class);

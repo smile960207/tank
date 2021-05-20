@@ -9,12 +9,7 @@ import cn.edu.hdu.tankbattle.enums.TankTypeEnum;
 
 import java.awt.Color;
 
-/**
- * 我方坦克...
- *
- * @author chenpi
- * @since 2011-02-10 19:29
- */
+
 public class MyTank extends Tank {
     /**
      * 构造方法
